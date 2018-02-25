@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519592705 source:c:\users\light\documents\serialization\main.cpp
+	<iostream>
+	<thread>
+	<stdlib.h>
+	<unistd.h>
+
